@@ -3,12 +3,12 @@ email:             your-email@example.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
 baseurl:           "/Clean"
-url:               "http://blackrockdigital.github.io"
+url:               "http://uuheng.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  uheng
+github_username:   uuheng
+facebook_username: uheng
 
 # Build settings
 markdown:          kramdown
